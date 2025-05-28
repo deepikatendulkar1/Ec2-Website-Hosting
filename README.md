@@ -46,10 +46,10 @@ sudo chown www-data:www-data index.html
 sudo chmod 644 index.html
 sudo systemctl start apache2
 
-
+```
 The site was previously accessible via the EC2 public IP address. Hosting has since expired due to AWS credits expiring.
 
-📬 Contact
+## 📬 Contact
 📧 deepikatenduulkar5@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/deepika-tendulkar-a88bb8166/
 Developed as part of SWE 645 coursework at George Mason University. Demonstrates basic website hosting using AWS infrastructure.
